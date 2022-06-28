@@ -1,25 +1,25 @@
 
 {
- "allimages": [
-    {
+   "allimages": [
+        {
         "title": "Smiling Girl",
         "urlImage": "https://firebasestorage.googleapis.com/v0/b/photo-e2913.appspot.com/o/files%2Fheadshot.jpg?alt=media&token=d3c5c4da-0f59-4152-892a-2a0ec2f3ab13"
-    },
-    {
+        },
+        {
         "title": "girl with phone",
         "urlImage": "https://firebasestorage.googleapis.com/v0/b/photo-e2913.appspot.com/o/files%2Fpexels-ketut-subiyanto-4353620.jpg?alt=media&token=191d2dbd-fb60-4725-8771-2f02dceab3f2"
-    },
-    {
+        },
+     {
         "title": "girl with computer",
         "urlImage":
-            "https://firebasestorage.googleapis.com/v0/b/photo-e2913.appspot.com/o/files%2FDSC_1845.JPG?alt=media&token=7b72a02b-ab2e-4468-9453-13a51d573952",
-    },
-    {
+            "https://firebasestorage.googleapis.com/v0/b/photo-e2913.appspot.com/o/files%2FDSC_1845.JPG?alt=media&token=7b72a02b-ab2e-4468-9453-13a51d573952"
+     },
+     {
         "title": "Smiling Girl",
         "urlImage": "https://firebasestorage.googleapis.com/v0/b/photo-e2913.appspot.com/o/files%2Fheadshot.jpg?alt=media&token=d3c5c4da-0f59-4152-892a-2a0ec2f3ab13"
-    }
+     }
 
- ]
+    ]
 
 }
  
